@@ -1,7 +1,7 @@
 #**Commander**
 ======
 
-Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job has its own assignments that must be completed to help the group as a whole advance.
+Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job has its own assignments that must be completed to help the group as a whole advance. But watch out! Sometimes ship personel is worrking against the others!
 
 
 ------
@@ -20,10 +20,12 @@ Commander is an asynchronous multiplayer game where every person has a job for t
 ## Commander
 
 You are the Commander of your vessel! Your job is ship management and macro-navigation. Assignments are as follows:
+- Accept Missions and Goals on behalf of the vessel
 - Navigate the Ship between Systems and Planets
 - Navigate the Ship around large obstacles like Black Holes
 - Tell the Engineer when to go into hyperspace
 - Tell the Engineer how you would like Ship Power adjusted
+- Tell the Navigator to create a route with requested stops
 - Tell Weapons Experts when to engage in combat
 - Tell he Communications Expert when to contact outside entities
 - Request supplies
@@ -49,6 +51,7 @@ Assignments are as follows:
 	- Hyperdrive
 	- Communications
 	- Teleporter
+	- Scanners
 - Upgrade systems
 - Repair damaged and faulty systems
 - Repair non-bioiological personel
@@ -66,11 +69,13 @@ Assignments are as follows:
 - Create a suggested maco-navigation route
 - Inform the Commander of the cost of macro-navigations
 	- Jumping to Hyperspace means that you won't be able to re-supply until reaching your destination, turn around and go back, or are met by another ship.
-	- Jumping to Hyperspace takes Power
+	- Jumping to Hyperspace takes Power and uses up Fuel
 	- Investigate large obstacles in your path
 - Navigate the Ship around small to medium obstacles like asteroids and debris
 - Land the Ship
+- Engage long and short-range Scanners
 - Request Power for the Engine
+- Request Power for the Scanners
 - Request supplies
 
 Your perks are as follows:
@@ -99,7 +104,12 @@ Assignments are as follows:
 - Contact other ships
 - Request landing authorization at Space Ports
 - Translate any Alien communications
-- Order supplies from supply ships/stations
+- Buy and sell supplies from supply ships/stations
+	- Fuel
+	- Upgrades
+	- Rations
+	- Weapons
+	- Maps
 - Request power for the Communications systems
 
 Your perks are as follows:
@@ -124,18 +134,19 @@ Assignments are as follows:
 
 Your perks are as follows:
 - Faster non-verbal communication to non-bioiological personel
+- Name yourself
 - Declare rules to your functions (ex. "Be polite or I won't obey")
 
 ------
 
-# Goals and obstacles
+# Goals, Challenges, and Obstacles
 
-There are several Missions the group can be assigned:
+There are several **Missions** the group can be assigned:
 - Explore uncharted territory
 - Deliver or Smuggle cargo
 - Fight in the Glactic Fleet
 
-Ther are several Challenges the group may face:
+There are several **Challenges** the group may face:
 - A Saboteur working as ship personel
 	- Captain who is following illegal secret orders
 	- Engineer who is sabotaging systems in the name of the <ENEMY GROUP NAME>
@@ -144,7 +155,24 @@ Ther are several Challenges the group may face:
 	- Communications Expert who is miss-translating and miss-communicating in the name of <ENEMY GROUP NAME>
 	- Artifical Intelligence that has gone rogue, wanting to destroy all non-biological entities.
 
-
+There are a multitude of **Obstacles** the group may face:
+- Physical Obstacles
+	- Large Obstacles, like Black Holes
+	- Medium Obstacles, like Asteroids
+	- Small Obstacles, like Space Debris
+- Other Ships
+	- <ENEMY GROUP NAME> ships attack on-sight
+	- Alien ships that interact differently depending on their race
+- Ship Systems become damaged
+- Ship runs low on supplies
+- There is not enough Power for every system
+- Ship is boarded by hostiles
+- Boss fights
+	- Space Monster
+	- Bureaucrats
+- Training courses for personel
+	- Prevents contribution to the ship, but will grant skills and perks upon completion
+	
 
 
 
