@@ -1,7 +1,7 @@
 #**Commander**
 ======
 
-Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job has its own assignments that must be completed to help the group as a whole advance. But watch out! Sometimes ship personel is worrking against the others!
+Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job has its own assignments that must be completed to help the group as a whole advance. But watch out! There are many Challenges and Obstacles you will have to overcome!
 
 
 ------
@@ -131,18 +131,19 @@ Assignments are as follows:
 - Override any Weapon or Shield functions
 - Override any Communication channels
 - Save personel precious seconds by opening doors, engaging elevators, etc.
+- Lock Doors and Airlocks
 - Fight off computer viruses
 
 Your perks are as follows:
 - Faster non-verbal communication to non-bioiological personel
 - Name yourself
-- Declare rules to your functions (ex. "Be polite or I won't obey")
+- Declare rules for your functions (ex. "Be polite or I won't obey")
 
 ------
 
 # Goals, Challenges, and Obstacles
 
-There are several **Missions** the group can be assigned:
+There are several **Missions** that may be accepted by the Captain:
 - Explore uncharted territory
 - Deliver or Smuggle cargo
 - Fight in the Glactic Fleet
@@ -155,8 +156,10 @@ There are several **Challenges** the group may face:
 	- Weapons Expert who is destroying enemies of <ENEMY GROUP NAME HERE>
 	- Communications Expert who is miss-translating and miss-communicating in the name of <ENEMY GROUP NAME>
 	- Artifical Intelligence that has gone rogue, wanting to destroy all non-biological entities.
+- <ENEMY GROUP NAME> is attempting to track down and capture your key cargo! Evade them, but be sure none of their scouts make it back to the main fleet!
 
 There are a multitude of **Obstacles** the group may face:
+- Non-verbal communications (pop-ups, flags, icons, etc.) are not instant, but verbal communications can become chaotic
 - Physical Obstacles
 	- Large Obstacles, like Black Holes
 	- Medium Obstacles, like Asteroids
