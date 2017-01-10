@@ -3,6 +3,7 @@ Commander
 
 Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job has its own assignments that must be completed to help the group as a whole advance.
 
+------
 
 ## Jobs
 
