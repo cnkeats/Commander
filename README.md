@@ -1,7 +1,7 @@
 #**Commander**
 ======
 
-Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job has its own assignments that must be completed to help the group as a whole advance. But watch out! There are many Challenges and Obstacles you will have to overcome!
+Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job comes with a uniqe UI and has its own assignments that must be completed to help the group as a whole advance. But watch out! There are many Challenges and Obstacles you will have to overcome to be successful!
 
 
 ------
