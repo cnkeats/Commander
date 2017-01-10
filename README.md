@@ -1,11 +1,12 @@
-**Commander**
+#**Commander**
 ======
 
 Commander is an asynchronous multiplayer game where every person has a job for their space vessel. Each job has its own assignments that must be completed to help the group as a whole advance.
 
+
 ------
 
-## Jobs
+# Jobs
 
 - Commander
 - Engineer
@@ -125,7 +126,23 @@ Your perks are as follows:
 - Faster non-verbal communication to non-bioiological personel
 - Declare rules to your functions (ex. "Be polite or I won't obey")
 
+------
 
+# Goals and obstacles
+
+There are several Missions the group can be assigned:
+- Explore uncharted territory
+- Deliver or Smuggle cargo
+- Fight in the Glactic Fleet
+
+Ther are several Challenges the group may face:
+- A Saboteur working as ship personel
+	- Captain who is following illegal secret orders
+	- Engineer who is sabotaging systems in the name of the <ENEMY GROUP NAME>
+	- Navigator who is sabotaging navigation in the name of the <ENEMY GROUP NAME>
+	- Weapons Expert who is destroying enemies of <ENEMY GROUP NAME HERE>
+	- Communications Expert who is miss-translating and miss-communicating in the name of <ENEMY GROUP NAME>
+	- Artifical Intelligence that has gone rogue, wanting to destroy all non-biological entities.
 
 
 
