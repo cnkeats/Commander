@@ -127,6 +127,7 @@ Assignments are as follows:
 - Override any Power adjustments
 - Override any jumps to Hyperspace
 - Override any micro-navigations
+- Override any Scanner functions
 - Override any Weapon or Shield functions
 - Override any Communication channels
 - Save personel precious seconds by opening doors, engaging elevators, etc.
