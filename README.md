@@ -13,7 +13,9 @@ Commander is an asynchronous multiplayer game where every person has a job for t
 - Human Resources (name in progress)
 - Artifical Intelligence
 
-### Commander
+------
+
+## Commander
 
 You are the Commander of your vessel! Your job is ship management and macro-navigation. Assignments are as follows:
 - Navigate the Ship between Systems and Planets
@@ -30,7 +32,7 @@ Your perks are as follows:
 - Name the vessel
 	
 	
-### Engineer
+## Engineer
 
 You are the Engineer of your vessel! Your job is to maintain the ship's systems. Assignments are as follows:
 - Engage the jump to hyperspace
@@ -39,7 +41,7 @@ You are the Engineer of your vessel! Your job is to maintain the ship's systems.
 - Adjust how much Ship Power is used by different systems; Power isn't unlimited!
 	
 
-### Navigator
+## Navigator
 
 You are the Navigator of your vessel! Your job is micro-navigation. Assignments are as follows:
 - Create a suggested maco-navigation route
@@ -52,7 +54,7 @@ You are the Navigator of your vessel! Your job is micro-navigation. Assignments 
 - Request Power for the Engine from the Engineer
 
 
-### Weapons Expert
+## Weapons Expert
 You are a Weapons Expert for your vessel! Your job is to maintain and use the ship's weapon systems. Assignments are as follows:
 - ENGAGE HOSTILES.
 - Power-up shields
@@ -60,9 +62,9 @@ You are a Weapons Expert for your vessel! Your job is to maintain and use the sh
 - Request additional power for the Weapons and Shields from the Engineer
 	
 
-### Transmission Expert
-### Human Resources
-### Artifical Intelligence
+## Transmission Expert
+## Human Resources
+## Artifical Intelligence
 
 
 
